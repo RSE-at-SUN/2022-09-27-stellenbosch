@@ -99,6 +99,10 @@ the pitch.
 {% endif %}
 
 {% if site.pilot %}
+
+# Our Workshop Sponsors
+
+![Society of Reseach Software Engineering](fig/Soc_RSE_master_logo__3_.png)
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
