@@ -104,6 +104,7 @@ the pitch.
 
 <img src="fig/Soc_RSE_master_logo__3_.png" alt="Society of Reseach Software Engineering" width="300px">
 <img src="fig/otb.jpg" alt="National Institute for Theoretical Computer Science" width="300px">
+<img src="fig/SSIFullColour.png" alt="Software Sustainability Institue" width="300px">
 
 
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
